@@ -1,2 +1,0 @@
-MONGODB_URI=mongodb+srv://fullstack:kissa123@cluster0.jauxa.mongodb.net/person-app?retryWrites=true&w=majority
-PORT=3001
